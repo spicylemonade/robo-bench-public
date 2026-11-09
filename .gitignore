@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+roboticsbench/assets/vendor/
+runs/
+out/
+*.mp4
+*.egg-info/
+.DS_Store
+MUJOCO_LOG.TXT
